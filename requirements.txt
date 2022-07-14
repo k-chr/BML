@@ -1,0 +1,9 @@
+numpy
+pygame
+sklearn
+scikit-fuzzy
+ipykernel
+jupyter
+matplotlib
+pandas
+seaborn
